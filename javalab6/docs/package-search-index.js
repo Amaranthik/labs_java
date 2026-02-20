@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.chepovetskiy.annotations"},{"l":"ru.chepovetskiy.domain"},{"l":"ru.chepovetskiy.logic"},{"l":"ru.chepovetskiy.main"}];updateSearchResults();
